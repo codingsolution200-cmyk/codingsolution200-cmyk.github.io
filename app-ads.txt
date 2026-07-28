@@ -1,3 +1,4 @@
+google.com, pub-9890167192177624, DIRECT, f08c47fec0942fa0
 appnexus.com, 6849, RESELLER
 appnexus.com, 17779, RESELLER
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
