@@ -1,4 +1,4 @@
-google.com, pub-9890167192177624, DIRECT, f08c47fec0942fa0
+google.com, pub-7392637366485960, DIRECT, f08c47fec0942fa0
 bid-matrix.com, f2c71a45ea149366, RESELLER
 brightmountainmedia.com, 2686958, RESELLER
 media.net, 8cusc3uj7, RESELLER
